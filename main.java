@@ -8,5 +8,7 @@ public class main {
         System.out.println("Hello");
         System.out.println("jenkins");
         System.out.println("added one more file");
+        Student student = new Student();
+        student.sayHello();
     }
 }
